@@ -1,0 +1,5 @@
+# Dependencias para la versión local con faster-whisper
+faster-whisper
+torch
+yt-dlp
+ffmpeg-python  # opcional si prefieres controles Python; usamos ffmpeg por shell
